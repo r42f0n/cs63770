@@ -1,1 +1,24 @@
-# cs63770
+java c
+Russian 3480.99 / Autumn 2024
+Exam #3
+This exam covers material assigned for class from October 21 through December 4.
+Type your exam responses into this .docx file and re-upload the file to Carmen under Assignments > Exam #3 by the deadline of Wednesday, December 4 at 11:59pm. Please contact Dr. Lin ahead of the deadline if you need to request more time. You may use the 48-hour deadline extension request link on our Carmen homepage for this assignment if you need it.
+When taking this exam, you may reference any of our course materials, including films, tv shows, readings, lectures, and anything on our Carmen site. You may also make use of the Internet—except for AI text generators—and any other research materials you may find (though you do not need to use any outside materials to complete the exam). You may not, however, consult with classmates or other people on your work, view other students’ exam responses, or make use of AI. All exams will be run through the Turnitin plagiarism checker.
+Answer any ten out of these twelve questions   in 3–4 sentences each. If you answer more than ten questions, I will grade only the first ten. Each question is worth 10 points.
+Note: an accurate but vague or incomplete answer will not receive full credit, so you are encouraged to make your 3–4 sentences robust. You are also encouraged to re-read the questions before you submit your exam and make sure that you actually answer the questions you are being asked. See the assignment page on Carmen for examples of how responses will be graded.
+1.   Even though the film GoldenEye takes place in the newly post–Cold War world, it still pits the West against Russia. How does the film’s message of Western superiority over Russia compare to the real-life diplomacy between the two nations in the 1990s?
+2.   Even today, the James Bond character and worldview continue to be ideologically rooted in the early–Cold War era in which the character was created. Name two   specific aspects of the James Bond universe that could merit criticism by Western audiences/consumers of today, and characterize changes in Western culture that account for why the traditional Bond character made sense as a Hollywood hero in 1962 but less so in 2021 (when the most recent film came out).
+3.   What was the role of the KGB in the fall of the USSR?
+4.   One of the stereotypes about Russians tha代 写Russian 3480.99 / Autumn 2024 Exam #3
+代做程序编程语言t we often find in Western films and tv is that the “good” Russians defect to the West (or want to defect). How does this defection plotline tend to emphasize a Cold-War mentality even in apolitical stories? Reference something we’ve watched this semester in your answer.
+5.   On the one hand, as we studied, Russian spies are often portrayed in film as sexy women with a streak of violence. On the other hand, as we studied, the KGB and now the FSB/SVR have become extremely good at something that seems very mundane: disinformation. Why might it be a problem that Hollywood movies lead us to completely misunderstand what Russia is up to? What level of threat does disinformation pose?
+6.   How does Black Widow   link Russian women with espionage, sex, and violence—or not? Does it replicate or challenge these stereotypes?
+7.   What do we mean when we say that the KGB/FSB can be seen as “information monitors and managers”?
+8.   How has Putin changed Russia socially, culturally, and politically since he was first elected president in 2000 and particularly since the large-scale invasion of Ukraine in 2022?
+9.   A commonplace of today is that Putin and Russian leadership think America is self-destructing. What features of Russian interference in American elections demonstrate Russia’s efforts to sow discord in the U.S.?
+10.   Pick one video, meme, image, insult, etc. from contemporary American culture that exhibits “Russophobia.” (This could be something we studied in class or something you’ve encountered on your own.) Explain how your chosen item is an example of Russophobia and how it uses Russophobia to affect its audience in a particular way.
+11.   Over and over again, Putin silences opposition (and the so-called “opposition media” that used to be present in Russia was in fact in actual dialogue with the state). Drawing on the lecture, what result do you think Putin hopes to achieve with the murders of people like Anna Politkovskaya, Alexander Litvinenko, and Aleksey Navalny (perhaps technically not a murder, but his death was certainly encouraged and welcomed by the state)?
+12.   Putin’s intentions with the Russo-Ukrainian War—and what sort of ending to the war he envisions—remain somewhat unclear. Citing specific points made in the lecture to back you up, please take a guess at what Putin wants out of this war.
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
